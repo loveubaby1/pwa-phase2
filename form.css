@@ -1,0 +1,42 @@
+body{
+	background: skyblue;
+	padding: 2%;
+}
+.main{
+	background: lightgreen;
+	width: 90%;
+	padding: 2%;
+	justify-content: space-between;
+	justify-content: space-around;
+	display: flex;
+	flex-wrap: wrap;
+	border-radius: 4%;
+	justify-content: center;
+}
+.sub{
+	background: pink;
+	width: 93%;
+	margin: 1%;
+	padding: 1%;
+	border-radius: 2%;
+	box-shadow: 2px 2px 2px 2px;
+}
+.sub1{
+	background: pink;
+	width: 43%;
+	margin: 1%;
+	padding: 1%;
+	border-radius: 2%;
+	box-shadow: 2px 2px 2px 2px;
+}
+input,select{
+	width: 95%;	
+}
+button{
+	background: red;
+	height: 7vh;
+	width: 93%;
+	text-align: center;
+#test{
+	text-align: center;
+}
